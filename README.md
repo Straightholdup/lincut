@@ -54,7 +54,7 @@
 7. Run Migrations:
 
     ```bash
-    ./vendor/bin/sail migrate
+    ./vendor/bin/sail artisan migrate
     ```
 
 ## Usage
